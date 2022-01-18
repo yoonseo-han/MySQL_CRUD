@@ -1,4 +1,4 @@
-Web page that stores username and the comment that the user wrote 
+Web page that stores username and the comment that the user wrote __
 Relational Database used
 Connect MySQL with NodeJs.
 Use NodeJS query to use database set by MySQL
